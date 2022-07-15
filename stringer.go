@@ -12,3 +12,5 @@ func main() {
 	var I = person{id: 1, Name: "Logan", Age: 22}
 	fmt.Println(I)
 }
+
+//This is an example without implementing the stringers
